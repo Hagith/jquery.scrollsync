@@ -1,0 +1,19 @@
+{
+  "name": "jquery.scrollsync",
+  "version": "1.0.0",
+  "description": "jQuery scrollsync Plugin",
+  "main": "scrollsync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hagith/jquery.scrollsync.git"
+  },
+  "author": "Miquel Herrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hagith/jquery.scrollsync/issues"
+  },
+  "homepage": "https://github.com/Hagith/jquery.scrollsync#readme"
+}
